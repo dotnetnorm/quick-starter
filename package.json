@@ -1,0 +1,26 @@
+{
+  "name": "react-simple-starter",
+  "version": "1.0.0",
+  "description": "A simple starter project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "jquery": "^2.1.4",
+    "react": "^0.14.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.2.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-livereload": "^3.8.0",
+    "gulp-open": "~0.3.2",
+    "gulp-plumber": "^1.0.0"
+  }
+}
